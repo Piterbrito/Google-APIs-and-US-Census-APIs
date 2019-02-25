@@ -8,16 +8,12 @@ Explores the relationship between states with high unemployment rates and bank c
 
 # Findings
 
-![x](Images/map11.png)
-
-![x](Images/map6.png)
-
-![x](Images/map5.png)
-
-#
-
 ![x](Images/map1.png.png)
 
 ![x](Images/map2.png.png)
 
 ![x](Images/map3.png.png)
+
+#
+![x](Images/map11.png)
+
